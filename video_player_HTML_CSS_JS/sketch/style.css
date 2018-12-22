@@ -1,0 +1,14 @@
+.video-player{
+    width: 640px;
+    height: 360px;
+    display: block;
+    margin: 5px;
+}
+
+button{
+    font-size: 20px;
+}
+
+.align-center{
+    align-content: center;
+}
